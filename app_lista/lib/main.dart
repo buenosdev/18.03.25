@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:app_lista/Aula01/list_view/index.dart';
+
+// void main() {
+//   runApp(const MyApp());
+// }
 
 void main() {
-  runApp(const MyApp());
+  runApp(Index());
 }
 
 class MyApp extends StatelessWidget {
