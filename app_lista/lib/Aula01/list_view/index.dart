@@ -8,6 +8,7 @@ Widget build(BuildContext context){
     home:Scaffold(
       appBar: AppBar(
         title: Text('List View'),
+        backgroundColor: Colors.amber,
       ),
       body: ListView.builder(
         itemCount: 100,
